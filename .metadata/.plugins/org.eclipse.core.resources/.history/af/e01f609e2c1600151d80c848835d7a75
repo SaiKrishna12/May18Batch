@@ -1,0 +1,11 @@
+package com.qedge;
+
+public class Launch {
+	
+	@test
+	public void loaunchTest()
+	{
+		Firefoxd
+	}
+
+}
